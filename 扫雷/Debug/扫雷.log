@@ -1,0 +1,3 @@
+﻿  text.c
+D:\practice\扫雷\text.c(119): warning C4715: “findboom”: 不是所有的控件路径都返回值
+  扫雷.vcxproj -> D:\practice\扫雷\Debug\扫雷.exe
